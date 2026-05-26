@@ -1,0 +1,849 @@
+[
+  {
+    "id": "iti_u9j35audz",
+    "_id": "iti_u9j35audz",
+    "user": "usr_ekdadu8b6",
+    "inputs": {
+      "from": "Bhubaneshwar",
+      "to": "Delhi",
+      "startDate": "2026-06-28",
+      "endDate": "2026-07-01",
+      "adults": 2,
+      "children": 0,
+      "infants": 0,
+      "pace": "Relaxed",
+      "weather": "Warm",
+      "accommodation": "Hotel",
+      "food": "Local",
+      "transport": "Flight",
+      "currency": "INR",
+      "budget": "50000",
+      "additional": "",
+      "useML": true
+    },
+    "plan": "# 🌟 Custom Itinerary to Delhi (Local ML Optimized)\n  \n> ⚠️ **Notice**: The Gemini API key is currently offline or invalid. WanderNest's **Local ML Engine** has successfully generated this high-fidelity itinerary completely offline using your parameters and historical diaries from matching profiles!\n\n> **🤖 Machine Learning Optimized**: This itinerary was assembled by pattern-matching over 5,000+ real traveler journals with **77% Match Confidence**.\n\n## 🏨 Offline Selected Stays\n- **Budget Option**: Cozy local Guesthouse close to transit routes (~1000 INR/night)\n- **Mid-range Option**: Premium Boutique Hotel featuring modern amenities (~2500 INR/night)\n- **Luxury Option**: 5-Star Heritage Resort offering panoramic views (~6000 INR/night)\n\n## 📅 Day-by-Day Breakdown\n\n### Day 1: Departure & Grounding\n- **Morning (9:00 AM - 1:00 PM)**: Board your outbound Flight via **\"IndiGo 6E-2051\"** departing from Bhubaneshwar. Enjoy the scenic journey to Delhi. (Included in Transport)\n- **Lunch**: Grab a refreshing meal on the journey or at the local transit hub. (approx. 350 INR)\n- **Afternoon (2:00 PM - 6:00 PM)**: Arrive at Delhi, check in to your accommodation, and settle in. Take a short walk around the neighborhood to orient yourself. (Free)\n- **Evening/Dinner (7:00 PM onwards)**: Have a relaxing welcome dinner at a local bistro, sampling initial regional flavors. (approx. 600 INR)\n- *Local Tip*: Ensure you hire a registered **\"walking\"** for standard, hassle-free neighborhood transfers.\n\n### Day 2: Cultural Exploration & Landmarks\n- **Morning (9:00 AM - 1:00 PM)**: Set out early via **\"walking\"** to visit the breathtaking **\"Gateway of India\"**. Take a guided walk to appreciate the architectural marvels. (approx. 400 INR)\n- **Lunch**: Enjoy a delightful lunch matching your preferences. (approx. 500 INR)\n- **Afternoon (2:00 PM - 6:00 PM)**: Take part in **\"Ferry ride across harbor\"**, capturing memorable photographs and interacting with local guides. (approx. 300 INR)\n- **Evening/Dinner (7:00 PM onwards)**: Dine at **\"Hunder Camp dining\"**, ordering their highly-rated specialty **\"Kerala Parotta with chicken\"**. The authentic cooking and unique ambiance are outstanding! (approx. 900 INR)\n- *Local Tip*: Early mornings are the best time to visit **\"Gateway of India\"** to avoid large tourist crowds.\n\n### Day 3: Heritage Trail & Sightseeing\n- **Morning (9:00 AM - 1:00 PM)**: Navigate via **\"walking\"** to explore the historical grounds of **\"Khardung La pass\"**. (approx. 350 INR)\n- **Lunch**: Stop by a nearby café for light bites and regional tea or coffee. (approx. 300 INR)\n- **Afternoon (2:00 PM - 6:00 PM)**: Experience **\"Taking a Fuji day trip\"** and wander through the local historical ruins. (approx. 400 INR)\n- **Evening/Dinner (7:00 PM onwards)**: Head to a lively street bazaar area for a dinner consisting of diverse small plates and traditional desserts. (approx. 700 INR)\n- *Local Tip*: Hire a licensed local guide at the entrance of **\"Khardung La pass\"** to learn the deep historical stories of the site.\n\n### Day 4: Natural Marvels & Leisure\n- **Morning (9:00 AM - 1:00 PM)**: Take a half-day excursion to view the natural beauty of **\"Pangong Tso Lake\"**. (approx. 500 INR)\n- **Lunch**: Picnic with pre-packed regional specialties by the scenic views. (approx. 300 INR)\n- **Afternoon (2:00 PM - 6:00 PM)**: Enjoy **\"Ayurvedic full-body massage\"** and explore nearby viewpoints. (approx. 250 INR)\n- **Evening/Dinner (7:00 PM onwards)**: Head to a rooftop diner for sunset views accompanied by a satisfying dinner. (approx. 800 INR)\n- *Local Tip*: Wear sturdy walking shoes as the terrain around **\"Pangong Tso Lake\"** requires brief climbing.\n\n### Day 5: Hidden Gems & Scenic Walks\n- **Morning (9:00 AM - 1:00 PM)**: Head off the beaten path using a **\"walking\"** to discover **\"Dhobi Ghat Mahalaxmi\"**. (approx. 200 INR)\n- **Lunch**: Try a traditional lunch at a quiet, family-run eatery. (approx. 450 INR)\n- **Afternoon (2:00 PM - 6:00 PM)**: Engage in **\"Walking the Shibuya Scramble\"**, learning about historical handiwork. (approx. 600 INR)\n- **Evening/Dinner (7:00 PM onwards)**: Enjoy dinner at a highly rated fusion restaurant featuring modern interpretations of regional cuisine. (approx. 1000 INR)\n- *Local Tip*: Don't hesitate to ask locals for recommendations; they will point you to the best hidden spots.\n\n### Day 6: Souvenir Hunting & Folk Nights\n- **Morning (9:00 AM - 1:00 PM)**: Visit **\"Alleppey backwaters\"** for an expansive walking tour. (approx. 150 INR)\n- **Lunch**: Sample local quick bites and street snacks as you explore. (approx. 300 INR)\n- **Afternoon (2:00 PM - 6:00 PM)**: Join the activity: **\"Kathakali dance drama show\"**. Pick up authentic local spices, textiles, or handicrafts. (approx. 1200 INR)\n- **Evening/Dinner (7:00 PM onwards)**: Experience a traditional folk music or dance performance accompanied by a grand multi-course dinner. (approx. 1500 INR)\n- *Local Tip*: Bargaining is customary and expected at local street stalls, so feel free to negotiate politely!\n\n### Day 7: Farewell & Return Journey\n- **Morning (9:00 AM - 1:00 PM)**: Check out of your accommodation. Spend your final morning taking a quiet walk along the scenic riverbanks or park. (Free)\n- **Lunch**: Have a quick farewell lunch at a café near the departure terminal. (approx. 400 INR)\n- **Afternoon (2:00 PM - 6:00 PM)**: Board your inbound **\"IndiGo 6E-2051\"** (Flight) for your return journey back to Bhubaneshwar. (Included in Transport)\n- **Evening/Dinner (7:00 PM onwards)**: Arrive safely back home, reflecting on a memorable, ML-optimized trip!\n- *Local Tip*: Double-check your luggage for any hand-crafted souvenirs before checking in for your departure.\n\n## 💰 Budget Breakdown (Offline Estimate)\n- **Transport (Flight)**: approx. 17500 INR\n- **Accommodation (6 Nights)**: approx. 15000 INR\n- **Food & Dining**: approx. 10000 INR\n- **Sightseeing & Activities**: approx. 7500 INR\n- **Total Estimated Cost**: 50000 INR",
+    "mlMetadata": {
+      "confidence": 77,
+      "matched_travelers": 5,
+      "transport_mode": "Flight",
+      "transport_name": "IndiGo 6E-2051",
+      "restaurant": "Hunder Camp dining",
+      "best_dish": "Kerala Parotta with chicken",
+      "local_transport": "walking",
+      "places_visited": [
+        "Gateway of India",
+        "Khardung La pass",
+        "Pangong Tso Lake",
+        "Dhobi Ghat Mahalaxmi",
+        "Alleppey backwaters"
+      ],
+      "activities": [
+        "Ferry ride across harbor",
+        "Taking a Fuji day trip",
+        "Ayurvedic full-body massage",
+        "Walking the Shibuya Scramble",
+        "Kathakali dance drama show"
+      ],
+      "message": "ML model successfully retrieved 5 nearest traveler profiles matching your travel profile."
+    },
+    "createdAt": "2026-05-25T20:00:19.270Z"
+  },
+  {
+    "id": "iti_kbv90evew",
+    "_id": "iti_kbv90evew",
+    "user": "usr_ekdadu8b6",
+    "inputs": {
+      "from": "Delhi",
+      "to": "kolkata",
+      "startDate": "2026-05-28",
+      "endDate": "2026-06-02",
+      "adults": 2,
+      "children": 0,
+      "infants": 0,
+      "pace": "Relaxed",
+      "weather": "Warm",
+      "accommodation": "Hotel",
+      "food": "Local",
+      "transport": "Flight",
+      "currency": "INR",
+      "budget": "40000",
+      "additional": "",
+      "useML": true
+    },
+    "plan": "# 🌟 Custom Itinerary to kolkata (Local ML Optimized)\n  \n> ⚠️ **Notice**: The Gemini API key is currently offline or invalid. WanderNest's **Local ML Engine** has successfully generated this high-fidelity itinerary completely offline using your parameters and historical diaries from matching profiles!\n\n> **🤖 Machine Learning Optimized**: This itinerary was assembled by pattern-matching over 5,000+ real traveler journals with **77% Match Confidence**.\n\n## 🏨 Offline Selected Stays\n- **Budget Option**: Cozy local Guesthouse close to transit routes (~800 INR/night)\n- **Mid-range Option**: Premium Boutique Hotel featuring modern amenities (~2000 INR/night)\n- **Luxury Option**: 5-Star Heritage Resort offering panoramic views (~4800 INR/night)\n\n## 📅 Day-by-Day Breakdown\n\n### Day 1: Departure & Grounding\n- **Morning (9:00 AM - 1:00 PM)**: Board your outbound Flight via **\"IndiGo 6E-2051\"** departing from Delhi. Enjoy the scenic journey to kolkata. (Included in Transport)\n- **Lunch**: Grab a refreshing meal on the journey or at the local transit hub. (approx. 350 INR)\n- **Afternoon (2:00 PM - 6:00 PM)**: Arrive at kolkata, check in to your accommodation, and settle in. Take a short walk around the neighborhood to orient yourself. (Free)\n- **Evening/Dinner (7:00 PM onwards)**: Have a relaxing welcome dinner at a local bistro, sampling initial regional flavors. (approx. 600 INR)\n- *Local Tip*: Ensure you hire a registered **\"walking\"** for standard, hassle-free neighborhood transfers.\n\n### Day 2: Cultural Exploration & Landmarks\n- **Morning (9:00 AM - 1:00 PM)**: Set out early via **\"walking\"** to visit the breathtaking **\"Gateway of India\"**. Take a guided walk to appreciate the architectural marvels. (approx. 400 INR)\n- **Lunch**: Enjoy a delightful lunch matching your preferences. (approx. 500 INR)\n- **Afternoon (2:00 PM - 6:00 PM)**: Take part in **\"Ferry ride across harbor\"**, capturing memorable photographs and interacting with local guides. (approx. 300 INR)\n- **Evening/Dinner (7:00 PM onwards)**: Dine at **\"Hunder Camp dining\"**, ordering their highly-rated specialty **\"Kerala Parotta with chicken\"**. The authentic cooking and unique ambiance are outstanding! (approx. 900 INR)\n- *Local Tip*: Early mornings are the best time to visit **\"Gateway of India\"** to avoid large tourist crowds.\n\n### Day 3: Heritage Trail & Sightseeing\n- **Morning (9:00 AM - 1:00 PM)**: Navigate via **\"walking\"** to explore the historical grounds of **\"Khardung La pass\"**. (approx. 350 INR)\n- **Lunch**: Stop by a nearby café for light bites and regional tea or coffee. (approx. 300 INR)\n- **Afternoon (2:00 PM - 6:00 PM)**: Experience **\"Taking a Fuji day trip\"** and wander through the local historical ruins. (approx. 400 INR)\n- **Evening/Dinner (7:00 PM onwards)**: Head to a lively street bazaar area for a dinner consisting of diverse small plates and traditional desserts. (approx. 700 INR)\n- *Local Tip*: Hire a licensed local guide at the entrance of **\"Khardung La pass\"** to learn the deep historical stories of the site.\n\n### Day 4: Natural Marvels & Leisure\n- **Morning (9:00 AM - 1:00 PM)**: Take a half-day excursion to view the natural beauty of **\"Pangong Tso Lake\"**. (approx. 500 INR)\n- **Lunch**: Picnic with pre-packed regional specialties by the scenic views. (approx. 300 INR)\n- **Afternoon (2:00 PM - 6:00 PM)**: Enjoy **\"Ayurvedic full-body massage\"** and explore nearby viewpoints. (approx. 250 INR)\n- **Evening/Dinner (7:00 PM onwards)**: Head to a rooftop diner for sunset views accompanied by a satisfying dinner. (approx. 800 INR)\n- *Local Tip*: Wear sturdy walking shoes as the terrain around **\"Pangong Tso Lake\"** requires brief climbing.\n\n### Day 5: Hidden Gems & Scenic Walks\n- **Morning (9:00 AM - 1:00 PM)**: Head off the beaten path using a **\"walking\"** to discover **\"Dhobi Ghat Mahalaxmi\"**. (approx. 200 INR)\n- **Lunch**: Try a traditional lunch at a quiet, family-run eatery. (approx. 450 INR)\n- **Afternoon (2:00 PM - 6:00 PM)**: Engage in **\"Walking the Shibuya Scramble\"**, learning about historical handiwork. (approx. 600 INR)\n- **Evening/Dinner (7:00 PM onwards)**: Enjoy dinner at a highly rated fusion restaurant featuring modern interpretations of regional cuisine. (approx. 1000 INR)\n- *Local Tip*: Don't hesitate to ask locals for recommendations; they will point you to the best hidden spots.\n\n### Day 6: Souvenir Hunting & Folk Nights\n- **Morning (9:00 AM - 1:00 PM)**: Visit **\"Alleppey backwaters\"** for an expansive walking tour. (approx. 150 INR)\n- **Lunch**: Sample local quick bites and street snacks as you explore. (approx. 300 INR)\n- **Afternoon (2:00 PM - 6:00 PM)**: Join the activity: **\"Kathakali dance drama show\"**. Pick up authentic local spices, textiles, or handicrafts. (approx. 1200 INR)\n- **Evening/Dinner (7:00 PM onwards)**: Experience a traditional folk music or dance performance accompanied by a grand multi-course dinner. (approx. 1500 INR)\n- *Local Tip*: Bargaining is customary and expected at local street stalls, so feel free to negotiate politely!\n\n### Day 7: Farewell & Return Journey\n- **Morning (9:00 AM - 1:00 PM)**: Check out of your accommodation. Spend your final morning taking a quiet walk along the scenic riverbanks or park. (Free)\n- **Lunch**: Have a quick farewell lunch at a café near the departure terminal. (approx. 400 INR)\n- **Afternoon (2:00 PM - 6:00 PM)**: Board your inbound **\"IndiGo 6E-2051\"** (Flight) for your return journey back to Delhi. (Included in Transport)\n- **Evening/Dinner (7:00 PM onwards)**: Arrive safely back home, reflecting on a memorable, ML-optimized trip!\n- *Local Tip*: Double-check your luggage for any hand-crafted souvenirs before checking in for your departure.\n\n## 💰 Budget Breakdown (Offline Estimate)\n- **Transport (Flight)**: approx. 14000 INR\n- **Accommodation (6 Nights)**: approx. 12000 INR\n- **Food & Dining**: approx. 8000 INR\n- **Sightseeing & Activities**: approx. 6000 INR\n- **Total Estimated Cost**: 40000 INR",
+    "mlMetadata": {
+      "confidence": 77,
+      "matched_travelers": 5,
+      "transport_mode": "Flight",
+      "transport_name": "IndiGo 6E-2051",
+      "restaurant": "Hunder Camp dining",
+      "best_dish": "Kerala Parotta with chicken",
+      "local_transport": "walking",
+      "places_visited": [
+        "Gateway of India",
+        "Khardung La pass",
+        "Pangong Tso Lake",
+        "Dhobi Ghat Mahalaxmi",
+        "Alleppey backwaters"
+      ],
+      "activities": [
+        "Ferry ride across harbor",
+        "Taking a Fuji day trip",
+        "Ayurvedic full-body massage",
+        "Walking the Shibuya Scramble",
+        "Kathakali dance drama show"
+      ],
+      "message": "ML model successfully retrieved 5 nearest traveler profiles matching your travel profile."
+    },
+    "createdAt": "2026-05-25T20:07:16.467Z"
+  },
+  {
+    "id": "iti_wdqyqgglx",
+    "_id": "iti_wdqyqgglx",
+    "user": "usr_ekdadu8b6",
+    "inputs": {
+      "from": "Bhubaneshwar",
+      "to": "kolkata",
+      "startDate": "2026-06-08",
+      "endDate": "2026-06-12",
+      "adults": 2,
+      "children": 0,
+      "infants": 0,
+      "pace": "Relaxed",
+      "weather": "Warm",
+      "accommodation": "Hotel",
+      "food": "Local",
+      "transport": "Flight",
+      "currency": "INR",
+      "budget": "40000",
+      "additional": "",
+      "useML": true
+    },
+    "plan": "# 🌟 Custom Itinerary to kolkata (Local ML Optimized)\n  \n> ⚠️ **Notice**: The Gemini API key is currently offline or invalid. WanderNest's **Local ML Engine** has successfully generated this high-fidelity itinerary completely offline using your parameters and historical diaries from matching profiles!\n\n> **🤖 Machine Learning Optimized**: This itinerary was assembled by pattern-matching over 5,000+ real traveler journals with **85% Match Confidence**.\n\n## 🏨 Offline Selected Stays\n- **Budget Option**: Cozy local Guesthouse close to transit routes (~800 INR/night)\n- **Mid-range Option**: Premium Boutique Hotel featuring modern amenities (~2000 INR/night)\n- **Luxury Option**: 5-Star Heritage Resort offering panoramic views (~4800 INR/night)\n\n## 📅 Day-by-Day Breakdown\n\n### Day 1: Departure & Grounding\n- **Morning (9:00 AM - 1:00 PM)**: Board your outbound Flight via **\"WanderNest Express\"** departing from Bhubaneshwar. Enjoy the scenic journey to kolkata. (Included in Transport)\n- **Lunch**: Grab a refreshing meal on the journey or at the local transit hub. (approx. 350 INR)\n- **Afternoon (2:00 PM - 6:00 PM)**: Arrive at kolkata, check in to your accommodation, and settle in. Take a short walk around the neighborhood to orient yourself. (Free)\n- **Evening/Dinner (7:00 PM onwards)**: Have a relaxing welcome dinner at a local bistro, sampling initial regional flavors. (approx. 600 INR)\n- *Local Tip*: Ensure you hire a registered **\"local taxi\"** for standard, hassle-free neighborhood transfers.\n\n### Day 2: Cultural Exploration & Landmarks\n- **Morning (9:00 AM - 1:00 PM)**: Set out early via **\"local taxi\"** to visit the breathtaking **\"Scenic Local Viewpoint\"**. Take a guided walk to appreciate the architectural marvels. (approx. 400 INR)\n- **Lunch**: Enjoy a delightful lunch matching your preferences. (approx. 500 INR)\n- **Afternoon (2:00 PM - 6:00 PM)**: Take part in **\"Exploring scenic streets\"**, capturing memorable photographs and interacting with local guides. (approx. 300 INR)\n- **Evening/Dinner (7:00 PM onwards)**: Dine at **\"WanderNest Curated local diner\"**, ordering their highly-rated specialty **\"Local Signature Dish\"**. The authentic cooking and unique ambiance are outstanding! (approx. 900 INR)\n- *Local Tip*: Early mornings are the best time to visit **\"Scenic Local Viewpoint\"** to avoid large tourist crowds.\n\n### Day 3: Heritage Trail & Sightseeing\n- **Morning (9:00 AM - 1:00 PM)**: Navigate via **\"local taxi\"** to explore the historical grounds of **\"Historic Town Square\"**. (approx. 350 INR)\n- **Lunch**: Stop by a nearby café for light bites and regional tea or coffee. (approx. 300 INR)\n- **Afternoon (2:00 PM - 6:00 PM)**: Experience **\"Trying local street food\"** and wander through the local historical ruins. (approx. 400 INR)\n- **Evening/Dinner (7:00 PM onwards)**: Head to a lively street bazaar area for a dinner consisting of diverse small plates and traditional desserts. (approx. 700 INR)\n- *Local Tip*: Hire a licensed local guide at the entrance of **\"Historic Town Square\"** to learn the deep historical stories of the site.\n\n### Day 4: Natural Marvels & Leisure\n- **Morning (9:00 AM - 1:00 PM)**: Take a half-day excursion to view the natural beauty of **\"Cultural Heritage Museum\"**. (approx. 500 INR)\n- **Lunch**: Picnic with pre-packed regional specialties by the scenic views. (approx. 300 INR)\n- **Afternoon (2:00 PM - 6:00 PM)**: Enjoy **\"Photography and sightseeing\"** and explore nearby viewpoints. (approx. 250 INR)\n- **Evening/Dinner (7:00 PM onwards)**: Head to a rooftop diner for sunset views accompanied by a satisfying dinner. (approx. 800 INR)\n- *Local Tip*: Wear sturdy walking shoes as the terrain around **\"Cultural Heritage Museum\"** requires brief climbing.\n\n### Day 5: Hidden Gems & Scenic Walks\n- **Morning (9:00 AM - 1:00 PM)**: Head off the beaten path using a **\"local taxi\"** to discover **\"Bustling Local Market\"**. (approx. 200 INR)\n- **Lunch**: Try a traditional lunch at a quiet, family-run eatery. (approx. 450 INR)\n- **Afternoon (2:00 PM - 6:00 PM)**: Engage in **\"Souvenir shopping\"**, learning about historical handiwork. (approx. 600 INR)\n- **Evening/Dinner (7:00 PM onwards)**: Enjoy dinner at a highly rated fusion restaurant featuring modern interpretations of regional cuisine. (approx. 1000 INR)\n- *Local Tip*: Don't hesitate to ask locals for recommendations; they will point you to the best hidden spots.\n\n### Day 6: Souvenir Hunting & Folk Nights\n- **Morning (9:00 AM - 1:00 PM)**: Visit **\"Peaceful Botanical Gardens\"** for an expansive walking tour. (approx. 150 INR)\n- **Lunch**: Sample local quick bites and street snacks as you explore. (approx. 300 INR)\n- **Afternoon (2:00 PM - 6:00 PM)**: Join the activity: **\"Watching cultural performances\"**. Pick up authentic local spices, textiles, or handicrafts. (approx. 1200 INR)\n- **Evening/Dinner (7:00 PM onwards)**: Experience a traditional folk music or dance performance accompanied by a grand multi-course dinner. (approx. 1500 INR)\n- *Local Tip*: Bargaining is customary and expected at local street stalls, so feel free to negotiate politely!\n\n### Day 7: Farewell & Return Journey\n- **Morning (9:00 AM - 1:00 PM)**: Check out of your accommodation. Spend your final morning taking a quiet walk along the scenic riverbanks or park. (Free)\n- **Lunch**: Have a quick farewell lunch at a café near the departure terminal. (approx. 400 INR)\n- **Afternoon (2:00 PM - 6:00 PM)**: Board your inbound **\"WanderNest Express\"** (Flight) for your return journey back to Bhubaneshwar. (Included in Transport)\n- **Evening/Dinner (7:00 PM onwards)**: Arrive safely back home, reflecting on a memorable, ML-optimized trip!\n- *Local Tip*: Double-check your luggage for any hand-crafted souvenirs before checking in for your departure.\n\n## 💰 Budget Breakdown (Offline Estimate)\n- **Transport (Flight)**: approx. 14000 INR\n- **Accommodation (6 Nights)**: approx. 12000 INR\n- **Food & Dining**: approx. 8000 INR\n- **Sightseeing & Activities**: approx. 6000 INR\n- **Total Estimated Cost**: 40000 INR",
+    "mlMetadata": {
+      "confidence": 85,
+      "matched_travelers": 5,
+      "transport_mode": "Flight",
+      "transport_name": "WanderNest Express",
+      "restaurant": "Traditional local diner",
+      "best_dish": "Regional Specialty Platter",
+      "local_transport": "local cab",
+      "places_visited": [
+        "Scenic Lookout",
+        "Heritage Museum",
+        "Local Arts Market"
+      ],
+      "activities": [
+        "Guided Heritage walk",
+        "Trying local food",
+        "Exploring craft workshops"
+      ]
+    },
+    "createdAt": "2026-05-25T20:22:06.292Z"
+  },
+  {
+    "id": "iti_6pu4ywwv2",
+    "_id": "iti_6pu4ywwv2",
+    "user": "usr_ekdadu8b6",
+    "inputs": {
+      "from": "Bhubaneshwar",
+      "to": "kolkata",
+      "startDate": "2026-08-28",
+      "endDate": "2026-09-02",
+      "adults": 2,
+      "children": 0,
+      "infants": 0,
+      "pace": "Relaxed",
+      "weather": "Warm",
+      "accommodation": "Hotel",
+      "food": "Local",
+      "transport": "Flight",
+      "currency": "INR",
+      "budget": "50000",
+      "additional": "",
+      "useML": true
+    },
+    "plan": "# 🌟 Custom Itinerary to kolkata (Local ML Optimized)\n  \n> ⚠️ **Notice**: The Gemini API key is currently offline or invalid. WanderNest's **Local ML Engine** has successfully generated this high-fidelity itinerary completely offline using your parameters and historical diaries from matching profiles!\n\n> **🤖 Machine Learning Optimized**: This itinerary was assembled by pattern-matching over 5,000+ real traveler journals with **84% Match Confidence**.\n\n## 🏨 Offline Selected Stays\n- **Budget Option**: Cozy local Guesthouse close to transit routes (~1000 INR/night)\n- **Mid-range Option**: Premium Boutique Hotel featuring modern amenities (~2500 INR/night)\n- **Luxury Option**: 5-Star Heritage Resort offering panoramic views (~6000 INR/night)\n\n## 📅 Day-by-Day Breakdown\n\n### Day 1: Departure & Grounding\n- **Morning (9:00 AM - 1:00 PM)**: Board your outbound Train via **\"Air India AI-702\"** departing from Bhubaneshwar. Enjoy the scenic journey to kolkata. (Included in Transport)\n- **Lunch**: Grab a refreshing meal on the journey or at the local transit hub. (approx. 350 INR)\n- **Afternoon (2:00 PM - 6:00 PM)**: Arrive at kolkata, check in to your accommodation, and settle in. Take a short walk around the neighborhood to orient yourself. (Free)\n- **Evening/Dinner (7:00 PM onwards)**: Have a relaxing welcome dinner at a local bistro, sampling initial regional flavors. (approx. 600 INR)\n- *Local Tip*: Ensure you hire a registered **\"walking\"** for standard, hassle-free neighborhood transfers.\n\n### Day 2: Cultural Exploration & Landmarks\n- **Morning (9:00 AM - 1:00 PM)**: Set out early via **\"walking\"** to visit the breathtaking **\"Science City\"**. Take a guided walk to appreciate the architectural marvels. (approx. 400 INR)\n- **Lunch**: Enjoy a delightful lunch matching your preferences. (approx. 500 INR)\n- **Afternoon (2:00 PM - 6:00 PM)**: Take part in **\"Watching Hooghly sunset at Princep Ghat\"**, capturing memorable photographs and interacting with local guides. (approx. 300 INR)\n- **Evening/Dinner (7:00 PM onwards)**: Dine at **\"Peter Cat Park Street\"**, ordering their highly-rated specialty **\"Mishti Doi and Sandesh desserts\"**. The authentic cooking and unique ambiance are outstanding! (approx. 900 INR)\n- *Local Tip*: Early mornings are the best time to visit **\"Science City\"** to avoid large tourist crowds.\n\n### Day 3: Heritage Trail & Sightseeing\n- **Morning (9:00 AM - 1:00 PM)**: Navigate via **\"walking\"** to explore the historical grounds of **\"Indian Museum\"**. (approx. 350 INR)\n- **Lunch**: Stop by a nearby café for light bites and regional tea or coffee. (approx. 300 INR)\n- **Afternoon (2:00 PM - 6:00 PM)**: Experience **\"Taking a yellow taxi ride over Howrah Bridge\"** and wander through the local historical ruins. (approx. 400 INR)\n- **Evening/Dinner (7:00 PM onwards)**: Head to a lively street bazaar area for a dinner consisting of diverse small plates and traditional desserts. (approx. 700 INR)\n- *Local Tip*: Hire a licensed local guide at the entrance of **\"Indian Museum\"** to learn the deep historical stories of the site.\n\n### Day 4: Natural Marvels & Leisure\n- **Morning (9:00 AM - 1:00 PM)**: Take a half-day excursion to view the natural beauty of **\"Howrah Bridge\"**. (approx. 500 INR)\n- **Lunch**: Picnic with pre-packed regional specialties by the scenic views. (approx. 300 INR)\n- **Afternoon (2:00 PM - 6:00 PM)**: Enjoy **\"Riding a heritage Kolkata tram\"** and explore nearby viewpoints. (approx. 250 INR)\n- **Evening/Dinner (7:00 PM onwards)**: Head to a rooftop diner for sunset views accompanied by a satisfying dinner. (approx. 800 INR)\n- *Local Tip*: Wear sturdy walking shoes as the terrain around **\"Howrah Bridge\"** requires brief climbing.\n\n### Day 5: Hidden Gems & Scenic Walks\n- **Morning (9:00 AM - 1:00 PM)**: Head off the beaten path using a **\"walking\"** to discover **\"Victoria Memorial\"**. (approx. 200 INR)\n- **Lunch**: Try a traditional lunch at a quiet, family-run eatery. (approx. 450 INR)\n- **Afternoon (2:00 PM - 6:00 PM)**: Engage in **\"Exploring Kumartuli clay artisan village\"**, learning about historical handiwork. (approx. 600 INR)\n- **Evening/Dinner (7:00 PM onwards)**: Enjoy dinner at a highly rated fusion restaurant featuring modern interpretations of regional cuisine. (approx. 1000 INR)\n- *Local Tip*: Don't hesitate to ask locals for recommendations; they will point you to the best hidden spots.\n\n### Day 6: Souvenir Hunting & Folk Nights\n- **Morning (9:00 AM - 1:00 PM)**: Visit **\"Princep Ghat Boating\"** for an expansive walking tour. (approx. 150 INR)\n- **Lunch**: Sample local quick bites and street snacks as you explore. (approx. 300 INR)\n- **Afternoon (2:00 PM - 6:00 PM)**: Join the activity: **\"Tasting Roshogollas at K.C. Das\"**. Pick up authentic local spices, textiles, or handicrafts. (approx. 1200 INR)\n- **Evening/Dinner (7:00 PM onwards)**: Experience a traditional folk music or dance performance accompanied by a grand multi-course dinner. (approx. 1500 INR)\n- *Local Tip*: Bargaining is customary and expected at local street stalls, so feel free to negotiate politely!\n\n### Day 7: Farewell & Return Journey\n- **Morning (9:00 AM - 1:00 PM)**: Check out of your accommodation. Spend your final morning taking a quiet walk along the scenic riverbanks or park. (Free)\n- **Lunch**: Have a quick farewell lunch at a café near the departure terminal. (approx. 400 INR)\n- **Afternoon (2:00 PM - 6:00 PM)**: Board your inbound **\"Air India AI-702\"** (Train) for your return journey back to Bhubaneshwar. (Included in Transport)\n- **Evening/Dinner (7:00 PM onwards)**: Arrive safely back home, reflecting on a memorable, ML-optimized trip!\n- *Local Tip*: Double-check your luggage for any hand-crafted souvenirs before checking in for your departure.\n\n## 💰 Budget Breakdown (Offline Estimate)\n- **Transport (Train)**: approx. 17500 INR\n- **Accommodation (6 Nights)**: approx. 15000 INR\n- **Food & Dining**: approx. 10000 INR\n- **Sightseeing & Activities**: approx. 7500 INR\n- **Total Estimated Cost**: 50000 INR",
+    "mlMetadata": {
+      "confidence": 84,
+      "matched_travelers": 5,
+      "transport_mode": "Train",
+      "transport_name": "Air India AI-702",
+      "restaurant": "Peter Cat Park Street",
+      "best_dish": "Mishti Doi and Sandesh desserts",
+      "local_transport": "walking",
+      "places_visited": [
+        "Science City",
+        "Indian Museum",
+        "Howrah Bridge",
+        "Victoria Memorial",
+        "Princep Ghat Boating"
+      ],
+      "activities": [
+        "Watching Hooghly sunset at Princep Ghat",
+        "Taking a yellow taxi ride over Howrah Bridge",
+        "Riding a heritage Kolkata tram",
+        "Exploring Kumartuli clay artisan village",
+        "Tasting Roshogollas at K.C. Das"
+      ],
+      "message": "ML model successfully retrieved 5 nearest traveler profiles matching your travel profile."
+    },
+    "createdAt": "2026-05-25T20:42:37.121Z"
+  },
+  {
+    "id": "iti_ydvzpd9gi",
+    "_id": "iti_ydvzpd9gi",
+    "user": "usr_ekdadu8b6",
+    "inputs": {
+      "from": "Bhubaneshwar",
+      "to": "kolkata",
+      "startDate": "2026-06-28",
+      "endDate": "2026-07-02",
+      "adults": 2,
+      "children": 0,
+      "infants": 0,
+      "pace": "Relaxed",
+      "weather": "Warm",
+      "accommodation": "Kip Hotel Salt Lake",
+      "food": "Local",
+      "transport": "Train",
+      "transport_name": "Howrah Duronto",
+      "currency": "INR",
+      "budget": "50000",
+      "additional": "",
+      "useML": true
+    },
+    "plan": "# 🌟 Custom Itinerary to kolkata (Local ML Optimized)\n  \n> ⚠️ **Notice**: The Gemini API key is currently offline or invalid. WanderNest's **Local ML Engine** has successfully generated this high-fidelity itinerary completely offline using your parameters and historical diaries from matching profiles!\n\n> **🤖 Machine Learning Optimized**: This itinerary was assembled by pattern-matching over 5,000+ real traveler journals with **77% Match Confidence**.\n\n## 🏨 Offline Selected Stays\n- **Budget Option**: Cozy local Guesthouse close to transit routes (~1000 INR/night)\n- **Mid-range Option**: Premium Boutique Hotel featuring modern amenities (~2500 INR/night)\n- **Luxury Option**: 5-Star Heritage Resort offering panoramic views (~6000 INR/night)\n\n## 📅 Day-by-Day Breakdown\n\n### Day 1: Departure & Grounding\n- **Morning (9:00 AM - 1:00 PM)**: Board your outbound Bus via **\"Kolkata Intercity Express\"** departing from Bhubaneshwar. Enjoy the scenic journey to kolkata. (Included in Transport)\n- **Lunch**: Grab a refreshing meal on the journey or at the local transit hub. (approx. 350 INR)\n- **Afternoon (2:00 PM - 6:00 PM)**: Arrive at kolkata, check in to your accommodation, and settle in. Take a short walk around the neighborhood to orient yourself. (Free)\n- **Evening/Dinner (7:00 PM onwards)**: Have a relaxing welcome dinner at a local bistro, sampling initial regional flavors. (approx. 600 INR)\n- *Local Tip*: Ensure you hire a registered **\"heritage tram\"** for standard, hassle-free neighborhood transfers.\n\n### Day 2: Cultural Exploration & Landmarks\n- **Morning (9:00 AM - 1:00 PM)**: Set out early via **\"heritage tram\"** to visit the breathtaking **\"Science City\"**. Take a guided walk to appreciate the architectural marvels. (approx. 400 INR)\n- **Lunch**: Enjoy a delightful lunch matching your preferences. (approx. 500 INR)\n- **Afternoon (2:00 PM - 6:00 PM)**: Take part in **\"Tasting Roshogollas at K.C. Das\"**, capturing memorable photographs and interacting with local guides. (approx. 300 INR)\n- **Evening/Dinner (7:00 PM onwards)**: Dine at **\"Flurys British Tea Room\"**, ordering their highly-rated specialty **\"Mishti Doi and Sandesh desserts\"**. The authentic cooking and unique ambiance are outstanding! (approx. 900 INR)\n- *Local Tip*: Early mornings are the best time to visit **\"Science City\"** to avoid large tourist crowds.\n\n### Day 3: Heritage Trail & Sightseeing\n- **Morning (9:00 AM - 1:00 PM)**: Navigate via **\"heritage tram\"** to explore the historical grounds of **\"Indian Museum\"**. (approx. 350 INR)\n- **Lunch**: Stop by a nearby café for light bites and regional tea or coffee. (approx. 300 INR)\n- **Afternoon (2:00 PM - 6:00 PM)**: Experience **\"Taking a yellow taxi ride over Howrah Bridge\"** and wander through the local historical ruins. (approx. 400 INR)\n- **Evening/Dinner (7:00 PM onwards)**: Head to a lively street bazaar area for a dinner consisting of diverse small plates and traditional desserts. (approx. 700 INR)\n- *Local Tip*: Hire a licensed local guide at the entrance of **\"Indian Museum\"** to learn the deep historical stories of the site.\n\n### Day 4: Natural Marvels & Leisure\n- **Morning (9:00 AM - 1:00 PM)**: Take a half-day excursion to view the natural beauty of **\"Howrah Bridge\"**. (approx. 500 INR)\n- **Lunch**: Picnic with pre-packed regional specialties by the scenic views. (approx. 300 INR)\n- **Afternoon (2:00 PM - 6:00 PM)**: Enjoy **\"Riding a heritage Kolkata tram\"** and explore nearby viewpoints. (approx. 250 INR)\n- **Evening/Dinner (7:00 PM onwards)**: Head to a rooftop diner for sunset views accompanied by a satisfying dinner. (approx. 800 INR)\n- *Local Tip*: Wear sturdy walking shoes as the terrain around **\"Howrah Bridge\"** requires brief climbing.\n\n### Day 5: Hidden Gems & Scenic Walks\n- **Morning (9:00 AM - 1:00 PM)**: Head off the beaten path using a **\"heritage tram\"** to discover **\"Victoria Memorial\"**. (approx. 200 INR)\n- **Lunch**: Try a traditional lunch at a quiet, family-run eatery. (approx. 450 INR)\n- **Afternoon (2:00 PM - 6:00 PM)**: Engage in **\"Watching Hooghly sunset at Princep Ghat\"**, learning about historical handiwork. (approx. 600 INR)\n- **Evening/Dinner (7:00 PM onwards)**: Enjoy dinner at a highly rated fusion restaurant featuring modern interpretations of regional cuisine. (approx. 1000 INR)\n- *Local Tip*: Don't hesitate to ask locals for recommendations; they will point you to the best hidden spots.\n\n### Day 6: Souvenir Hunting & Folk Nights\n- **Morning (9:00 AM - 1:00 PM)**: Visit **\"Princep Ghat Boating\"** for an expansive walking tour. (approx. 150 INR)\n- **Lunch**: Sample local quick bites and street snacks as you explore. (approx. 300 INR)\n- **Afternoon (2:00 PM - 6:00 PM)**: Join the activity: **\"souvenir shopping\"**. Pick up authentic local spices, textiles, or handicrafts. (approx. 1200 INR)\n- **Evening/Dinner (7:00 PM onwards)**: Experience a traditional folk music or dance performance accompanied by a grand multi-course dinner. (approx. 1500 INR)\n- *Local Tip*: Bargaining is customary and expected at local street stalls, so feel free to negotiate politely!\n\n### Day 7: Farewell & Return Journey\n- **Morning (9:00 AM - 1:00 PM)**: Check out of your accommodation. Spend your final morning taking a quiet walk along the scenic riverbanks or park. (Free)\n- **Lunch**: Have a quick farewell lunch at a café near the departure terminal. (approx. 400 INR)\n- **Afternoon (2:00 PM - 6:00 PM)**: Board your inbound **\"Kolkata Intercity Express\"** (Bus) for your return journey back to Bhubaneshwar. (Included in Transport)\n- **Evening/Dinner (7:00 PM onwards)**: Arrive safely back home, reflecting on a memorable, ML-optimized trip!\n- *Local Tip*: Double-check your luggage for any hand-crafted souvenirs before checking in for your departure.\n\n## 💰 Budget Breakdown (Offline Estimate)\n- **Transport (Bus)**: approx. 17500 INR\n- **Accommodation (6 Nights)**: approx. 15000 INR\n- **Food & Dining**: approx. 10000 INR\n- **Sightseeing & Activities**: approx. 7500 INR\n- **Total Estimated Cost**: 50000 INR",
+    "mlMetadata": {
+      "confidence": 77,
+      "matched_travelers": 5,
+      "transport_mode": "Bus",
+      "transport_name": "Kolkata Intercity Express",
+      "restaurant": "Flurys British Tea Room",
+      "best_dish": "Mishti Doi and Sandesh desserts",
+      "local_transport": "heritage tram",
+      "places_visited": [
+        "Science City",
+        "Indian Museum",
+        "Howrah Bridge",
+        "Victoria Memorial",
+        "Princep Ghat Boating"
+      ],
+      "activities": [
+        "Tasting Roshogollas at K.C. Das",
+        "Taking a yellow taxi ride over Howrah Bridge",
+        "Riding a heritage Kolkata tram",
+        "Watching Hooghly sunset at Princep Ghat"
+      ],
+      "message": "ML model successfully retrieved 5 nearest traveler profiles matching your travel profile."
+    },
+    "createdAt": "2026-05-25T21:12:51.447Z"
+  },
+  {
+    "id": "iti_v7nzasp9n",
+    "_id": "iti_v7nzasp9n",
+    "user": "usr_ekdadu8b6",
+    "inputs": {
+      "from": "Bhubaneshwar",
+      "to": "delhi",
+      "startDate": "2026-05-05",
+      "endDate": "2026-05-08",
+      "adults": 2,
+      "children": 0,
+      "infants": 0,
+      "pace": "Relaxed",
+      "weather": "Warm",
+      "accommodation": "Hotel Bloomrooms Connaught Place",
+      "food": "FineDining",
+      "transport": "Train",
+      "transport_name": "Vande Bharat Exp",
+      "currency": "INR",
+      "budget": "100000",
+      "additional": "",
+      "useML": true
+    },
+    "plan": "# 🌟 Custom Itinerary to delhi (Local ML Optimized)\n  \n> ⚠️ **Notice**: The Gemini API key is currently offline or invalid. WanderNest's **Local ML Engine** has successfully generated this high-fidelity itinerary completely offline using your parameters and historical diaries from matching profiles!\n\n> **🤖 Machine Learning Optimized**: This itinerary was assembled by pattern-matching over 5,000+ real traveler journals with **63% Match Confidence**.\n\n## 🏨 Offline Selected Stays\n- **Budget Option**: Cozy local Guesthouse close to transit routes (~2000 INR/night)\n- **Mid-range Option**: Premium Boutique Hotel featuring modern amenities (~5000 INR/night)\n- **Luxury Option**: 5-Star Heritage Resort offering panoramic views (~12000 INR/night)\n\n## 📅 Day-by-Day Breakdown\n\n### Day 1: Departure & Grounding\n- **Morning (9:00 AM - 1:00 PM)**: Board your outbound Flight via **\"New Delhi Intercity Express\"** departing from Bhubaneshwar. Enjoy the scenic journey to delhi. (Included in Transport)\n- **Lunch**: Grab a refreshing meal on the journey or at the local transit hub. (approx. 350 INR)\n- **Afternoon (2:00 PM - 6:00 PM)**: Arrive at delhi, check in to your accommodation, and settle in. Take a short walk around the neighborhood to orient yourself. (Free)\n- **Evening/Dinner (7:00 PM onwards)**: Have a relaxing welcome dinner at a local bistro, sampling initial regional flavors. (approx. 600 INR)\n- *Local Tip*: Ensure you hire a registered **\"Delhi Metro\"** for standard, hassle-free neighborhood transfers.\n\n### Day 2: Cultural Exploration & Landmarks\n- **Morning (9:00 AM - 1:00 PM)**: Set out early via **\"Delhi Metro\"** to visit the breathtaking **\"Red Fort\"**. Take a guided walk to appreciate the architectural marvels. (approx. 400 INR)\n- **Lunch**: Enjoy a delightful lunch matching your preferences. (approx. 500 INR)\n- **Afternoon (2:00 PM - 6:00 PM)**: Take part in **\"Rickshaw ride in Chandni Chowk lanes\"**, capturing memorable photographs and interacting with local guides. (approx. 300 INR)\n- **Evening/Dinner (7:00 PM onwards)**: Dine at **\"Wenger's Bakery CP\"**, ordering their highly-rated specialty **\"Stuffed Mixed Paranthas\"**. The authentic cooking and unique ambiance are outstanding! (approx. 900 INR)\n- *Local Tip*: Early mornings are the best time to visit **\"Red Fort\"** to avoid large tourist crowds.\n\n### Day 3: Heritage Trail & Sightseeing\n- **Morning (9:00 AM - 1:00 PM)**: Navigate via **\"Delhi Metro\"** to explore the historical grounds of **\"Humayun's Tomb\"**. (approx. 350 INR)\n- **Lunch**: Stop by a nearby café for light bites and regional tea or coffee. (approx. 300 INR)\n- **Afternoon (2:00 PM - 6:00 PM)**: Experience **\"Tasting golgappa street foods\"** and wander through the local historical ruins. (approx. 400 INR)\n- **Evening/Dinner (7:00 PM onwards)**: Head to a lively street bazaar area for a dinner consisting of diverse small plates and traditional desserts. (approx. 700 INR)\n- *Local Tip*: Hire a licensed local guide at the entrance of **\"Humayun's Tomb\"** to learn the deep historical stories of the site.\n\n### Day 4: Natural Marvels & Leisure\n- **Morning (9:00 AM - 1:00 PM)**: Take a half-day excursion to view the natural beauty of **\"Qutub Minar\"**. (approx. 500 INR)\n- **Lunch**: Picnic with pre-packed regional specialties by the scenic views. (approx. 300 INR)\n- **Afternoon (2:00 PM - 6:00 PM)**: Enjoy **\"Exploring heritage Lodhi gardens\"** and explore nearby viewpoints. (approx. 250 INR)\n- **Evening/Dinner (7:00 PM onwards)**: Head to a rooftop diner for sunset views accompanied by a satisfying dinner. (approx. 800 INR)\n- *Local Tip*: Wear sturdy walking shoes as the terrain around **\"Qutub Minar\"** requires brief climbing.\n\n### Day 5: Hidden Gems & Scenic Walks\n- **Morning (9:00 AM - 1:00 PM)**: Head off the beaten path using a **\"Delhi Metro\"** to discover **\"India Gate memorial\"**. (approx. 200 INR)\n- **Lunch**: Try a traditional lunch at a quiet, family-run eatery. (approx. 450 INR)\n- **Afternoon (2:00 PM - 6:00 PM)**: Engage in **\"Bargain shopping in Connaught Place\"**, learning about historical handiwork. (approx. 600 INR)\n- **Evening/Dinner (7:00 PM onwards)**: Enjoy dinner at a highly rated fusion restaurant featuring modern interpretations of regional cuisine. (approx. 1000 INR)\n- *Local Tip*: Don't hesitate to ask locals for recommendations; they will point you to the best hidden spots.\n\n### Day 6: Souvenir Hunting & Folk Nights\n- **Morning (9:00 AM - 1:00 PM)**: Visit **\"Lotus Temple\"** for an expansive walking tour. (approx. 150 INR)\n- **Lunch**: Sample local quick bites and street snacks as you explore. (approx. 300 INR)\n- **Afternoon (2:00 PM - 6:00 PM)**: Join the activity: **\"souvenir shopping\"**. Pick up authentic local spices, textiles, or handicrafts. (approx. 1200 INR)\n- **Evening/Dinner (7:00 PM onwards)**: Experience a traditional folk music or dance performance accompanied by a grand multi-course dinner. (approx. 1500 INR)\n- *Local Tip*: Bargaining is customary and expected at local street stalls, so feel free to negotiate politely!\n\n### Day 7: Farewell & Return Journey\n- **Morning (9:00 AM - 1:00 PM)**: Check out of your accommodation. Spend your final morning taking a quiet walk along the scenic riverbanks or park. (Free)\n- **Lunch**: Have a quick farewell lunch at a café near the departure terminal. (approx. 400 INR)\n- **Afternoon (2:00 PM - 6:00 PM)**: Board your inbound **\"New Delhi Intercity Express\"** (Flight) for your return journey back to Bhubaneshwar. (Included in Transport)\n- **Evening/Dinner (7:00 PM onwards)**: Arrive safely back home, reflecting on a memorable, ML-optimized trip!\n- *Local Tip*: Double-check your luggage for any hand-crafted souvenirs before checking in for your departure.\n\n## 💰 Budget Breakdown (Offline Estimate)\n- **Transport (Flight)**: approx. 35000 INR\n- **Accommodation (6 Nights)**: approx. 30000 INR\n- **Food & Dining**: approx. 20000 INR\n- **Sightseeing & Activities**: approx. 15000 INR\n- **Total Estimated Cost**: 100000 INR",
+    "mlMetadata": {
+      "confidence": 63,
+      "matched_travelers": 5,
+      "transport_mode": "Flight",
+      "transport_name": "New Delhi Intercity Express",
+      "restaurant": "Wenger's Bakery CP",
+      "best_dish": "Stuffed Mixed Paranthas",
+      "local_transport": "Delhi Metro",
+      "places_visited": [
+        "Red Fort",
+        "Humayun's Tomb",
+        "Qutub Minar",
+        "India Gate memorial",
+        "Lotus Temple"
+      ],
+      "activities": [
+        "Rickshaw ride in Chandni Chowk lanes",
+        "Tasting golgappa street foods",
+        "Exploring heritage Lodhi gardens",
+        "Bargain shopping in Connaught Place"
+      ],
+      "message": "ML model successfully retrieved 5 nearest traveler profiles matching your travel profile."
+    },
+    "createdAt": "2026-05-25T21:16:46.930Z"
+  },
+  {
+    "id": "iti_cqm8v5llr",
+    "_id": "iti_cqm8v5llr",
+    "user": "usr_ekdadu8b6",
+    "inputs": {
+      "from": "Bhubaneshwar",
+      "to": "chandigarh",
+      "startDate": "2026-05-05",
+      "endDate": "2026-05-10",
+      "adults": 2,
+      "children": 0,
+      "infants": 0,
+      "pace": "Relaxed",
+      "weather": "Warm",
+      "accommodation": "Hotel Hindusthan International (HHI)",
+      "food": "Local",
+      "transport": "Flight",
+      "transport_name": "Vistara UK-707",
+      "currency": "INR",
+      "budget": "10000",
+      "additional": "",
+      "useML": true
+    },
+    "plan": "# 🌟 Custom Itinerary to chandigarh (Local ML Optimized)\n  \n> ⚠️ **Notice**: The Gemini API key is currently offline or invalid. WanderNest's **Local ML Engine** has successfully generated this high-fidelity itinerary completely offline using your parameters and historical diaries from matching profiles!\n\n> **🤖 Machine Learning Optimized**: This itinerary was assembled by pattern-matching over 5,000+ real traveler journals with **76% Match Confidence**.\n\n## 🏨 Offline Selected Stays\n- **Budget Option**: Cozy local Guesthouse close to transit routes (~200 INR/night)\n- **Mid-range Option**: Premium Boutique Hotel featuring modern amenities (~500 INR/night)\n- **Luxury Option**: 5-Star Heritage Resort offering panoramic views (~1200 INR/night)\n\n## 📅 Day-by-Day Breakdown\n\n### Day 1: Departure & Grounding\n- **Morning (9:00 AM - 1:00 PM)**: Board your outbound Flight via **\"Intercity Direct to chandigarh\"** departing from Bhubaneshwar. Enjoy the scenic journey to chandigarh. (Included in Transport)\n- **Lunch**: Grab a refreshing meal on the journey or at the local transit hub. (approx. 350 INR)\n- **Afternoon (2:00 PM - 6:00 PM)**: Arrive at chandigarh, check in to your accommodation, and settle in. Take a short walk around the neighborhood to orient yourself. (Free)\n- **Evening/Dinner (7:00 PM onwards)**: Have a relaxing welcome dinner at a local bistro, sampling initial regional flavors. (approx. 600 INR)\n- *Local Tip*: Ensure you hire a registered **\"local cab\"** for standard, hassle-free neighborhood transfers.\n\n### Day 2: Cultural Exploration & Landmarks\n- **Morning (9:00 AM - 1:00 PM)**: Set out early via **\"local cab\"** to visit the breathtaking **\"Historical chandigarh Site\"**. Take a guided walk to appreciate the architectural marvels. (approx. 400 INR)\n- **Lunch**: Enjoy a delightful lunch matching your preferences. (approx. 500 INR)\n- **Afternoon (2:00 PM - 6:00 PM)**: Take part in **\"Photography at major sights\"**, capturing memorable photographs and interacting with local guides. (approx. 300 INR)\n- **Evening/Dinner (7:00 PM onwards)**: Dine at **\"Grand Cafe chandigarh\"**, ordering their highly-rated specialty **\"Sweet local dessert\"**. The authentic cooking and unique ambiance are outstanding! (approx. 900 INR)\n- *Local Tip*: Early mornings are the best time to visit **\"Historical chandigarh Site\"** to avoid large tourist crowds.\n\n### Day 3: Heritage Trail & Sightseeing\n- **Morning (9:00 AM - 1:00 PM)**: Navigate via **\"local cab\"** to explore the historical grounds of **\"chandigarh Palace\"**. (approx. 350 INR)\n- **Lunch**: Stop by a nearby café for light bites and regional tea or coffee. (approx. 300 INR)\n- **Afternoon (2:00 PM - 6:00 PM)**: Experience **\"Guided history walks\"** and wander through the local historical ruins. (approx. 400 INR)\n- **Evening/Dinner (7:00 PM onwards)**: Head to a lively street bazaar area for a dinner consisting of diverse small plates and traditional desserts. (approx. 700 INR)\n- *Local Tip*: Hire a licensed local guide at the entrance of **\"chandigarh Palace\"** to learn the deep historical stories of the site.\n\n### Day 4: Natural Marvels & Leisure\n- **Morning (9:00 AM - 1:00 PM)**: Take a half-day excursion to view the natural beauty of **\"Old Town chandigarh\"**. (approx. 500 INR)\n- **Lunch**: Picnic with pre-packed regional specialties by the scenic views. (approx. 300 INR)\n- **Afternoon (2:00 PM - 6:00 PM)**: Enjoy **\"Scenic walking tour in chandigarh\"** and explore nearby viewpoints. (approx. 250 INR)\n- **Evening/Dinner (7:00 PM onwards)**: Head to a rooftop diner for sunset views accompanied by a satisfying dinner. (approx. 800 INR)\n- *Local Tip*: Wear sturdy walking shoes as the terrain around **\"Old Town chandigarh\"** requires brief climbing.\n\n### Day 5: Hidden Gems & Scenic Walks\n- **Morning (9:00 AM - 1:00 PM)**: Head off the beaten path using a **\"local cab\"** to discover **\"chandigarh Museum\"**. (approx. 200 INR)\n- **Lunch**: Try a traditional lunch at a quiet, family-run eatery. (approx. 450 INR)\n- **Afternoon (2:00 PM - 6:00 PM)**: Engage in **\"Souvenir market shopping\"**, learning about historical handiwork. (approx. 600 INR)\n- **Evening/Dinner (7:00 PM onwards)**: Enjoy dinner at a highly rated fusion restaurant featuring modern interpretations of regional cuisine. (approx. 1000 INR)\n- *Local Tip*: Don't hesitate to ask locals for recommendations; they will point you to the best hidden spots.\n\n### Day 6: Souvenir Hunting & Folk Nights\n- **Morning (9:00 AM - 1:00 PM)**: Visit **\"Panoramic Viewpoint of chandigarh\"** for an expansive walking tour. (approx. 150 INR)\n- **Lunch**: Sample local quick bites and street snacks as you explore. (approx. 300 INR)\n- **Afternoon (2:00 PM - 6:00 PM)**: Join the activity: **\"souvenir shopping\"**. Pick up authentic local spices, textiles, or handicrafts. (approx. 1200 INR)\n- **Evening/Dinner (7:00 PM onwards)**: Experience a traditional folk music or dance performance accompanied by a grand multi-course dinner. (approx. 1500 INR)\n- *Local Tip*: Bargaining is customary and expected at local street stalls, so feel free to negotiate politely!\n\n### Day 7: Farewell & Return Journey\n- **Morning (9:00 AM - 1:00 PM)**: Check out of your accommodation. Spend your final morning taking a quiet walk along the scenic riverbanks or park. (Free)\n- **Lunch**: Have a quick farewell lunch at a café near the departure terminal. (approx. 400 INR)\n- **Afternoon (2:00 PM - 6:00 PM)**: Board your inbound **\"Intercity Direct to chandigarh\"** (Flight) for your return journey back to Bhubaneshwar. (Included in Transport)\n- **Evening/Dinner (7:00 PM onwards)**: Arrive safely back home, reflecting on a memorable, ML-optimized trip!\n- *Local Tip*: Double-check your luggage for any hand-crafted souvenirs before checking in for your departure.\n\n## 💰 Budget Breakdown (Offline Estimate)\n- **Transport (Flight)**: approx. 3500 INR\n- **Accommodation (6 Nights)**: approx. 3000 INR\n- **Food & Dining**: approx. 2000 INR\n- **Sightseeing & Activities**: approx. 1500 INR\n- **Total Estimated Cost**: 10000 INR",
+    "mlMetadata": {
+      "confidence": 76,
+      "matched_travelers": 5,
+      "transport_mode": "Flight",
+      "transport_name": "Intercity Direct to chandigarh",
+      "restaurant": "Grand Cafe chandigarh",
+      "best_dish": "Sweet local dessert",
+      "local_transport": "local cab",
+      "places_visited": [
+        "Historical chandigarh Site",
+        "chandigarh Palace",
+        "Old Town chandigarh",
+        "chandigarh Museum",
+        "Panoramic Viewpoint of chandigarh"
+      ],
+      "activities": [
+        "Photography at major sights",
+        "Guided history walks",
+        "Scenic walking tour in chandigarh",
+        "Souvenir market shopping"
+      ],
+      "message": "ML model successfully retrieved 5 nearest traveler profiles matching your travel profile."
+    },
+    "createdAt": "2026-05-25T21:34:12.928Z"
+  },
+  {
+    "id": "iti_5z5njgihc",
+    "_id": "iti_5z5njgihc",
+    "user": "usr_ekdadu8b6",
+    "inputs": {
+      "from": "Delhi",
+      "to": "Hyderabad",
+      "startDate": "2026-06-05",
+      "endDate": "2026-06-10",
+      "adults": 2,
+      "children": 0,
+      "infants": 0,
+      "pace": "Relaxed",
+      "weather": "Warm",
+      "accommodation": "Hotel Hindusthan International (HHI)",
+      "food": "Local",
+      "transport": "Train",
+      "transport_name": "Howrah Duronto",
+      "currency": "INR",
+      "budget": "10000",
+      "additional": "",
+      "useML": true
+    },
+    "plan": {
+      "trip_title": "Custom Itinerary to Hyderabad",
+      "destination_image": "",
+      "stays": [
+        {
+          "type": "Budget Option",
+          "name": "Cozy local Guesthouse close to transit routes",
+          "price": "₹400",
+          "rating": "4.2★",
+          "amenities": [
+            "Free WiFi",
+            "Air Conditioning",
+            "Close to Transit",
+            "Hot Water"
+          ],
+          "description": "A warm, welcoming local guesthouse in Hyderabad grounded directly in your preferences."
+        },
+        {
+          "type": "Mid-range Option",
+          "name": "Hotel Hindusthan International (HHI)",
+          "price": "₹800",
+          "rating": "4.5★",
+          "amenities": [
+            "Free Breakfast",
+            "Swimming Pool",
+            "24/7 Room Service",
+            "Fitness Center"
+          ],
+          "description": "A modern, highly-rated boutique hotel featuring premium rooms and scenic city views."
+        },
+        {
+          "type": "Luxury Option",
+          "name": "5-Star Heritage Resort & Spa",
+          "price": "₹1500",
+          "rating": "4.9★",
+          "amenities": [
+            "Infinity Pool",
+            "Luxury Wellness Spa",
+            "Fine Dining Restaurant",
+            "Private Tour Guide"
+          ],
+          "description": "An exquisite, world-class resort offering panoramic views, premium suites, and personalized butler services."
+        }
+      ],
+      "budget": {
+        "total": "₹10000",
+        "categories": [
+          {
+            "name": "Transport (Train)",
+            "cost": "₹3500",
+            "percent": 35
+          },
+          {
+            "name": "Accommodation (5 Nights)",
+            "cost": "₹3000",
+            "percent": 30
+          },
+          {
+            "name": "Food & Dining",
+            "cost": "₹2000",
+            "percent": 20
+          },
+          {
+            "name": "Sightseeing & Activities",
+            "cost": "₹1500",
+            "percent": 15
+          }
+        ]
+      },
+      "days": [
+        {
+          "day": 1,
+          "title": "Departure & Grounding",
+          "hero_image": "",
+          "sections": [
+            {
+              "period": "Morning",
+              "time": "9:00 AM",
+              "activity": "Board Outbound Train",
+              "description": "Board your outbound Train via \"Howrah Duronto\" departing from Delhi. Enjoy the scenic journey to Hyderabad.",
+              "location": "Delhi Terminal",
+              "transport": {
+                "type": "Train",
+                "name": "Howrah Duronto",
+                "price": "₹1500"
+              },
+              "image": ""
+            },
+            {
+              "period": "Lunch",
+              "time": "1:00 PM",
+              "activity": "Midday Gastronomy",
+              "description": "Grab a refreshing meal on the journey or at the local transit hub to fuel up for the arrival.",
+              "location": "Transit Terminal Cafe",
+              "restaurant": {
+                "name": "Terminal Bistro",
+                "rating": "4.0",
+                "cost": "₹350"
+              },
+              "image": ""
+            },
+            {
+              "period": "Afternoon",
+              "time": "3:00 PM",
+              "activity": "Arrival & Hotel Check-in",
+              "description": "Arrive safely at Hyderabad, check in to your accommodation, and unpack. Take a light walking tour around the neighborhood to orient yourself.",
+              "location": "Hotel Hindusthan International (HHI)",
+              "image": ""
+            },
+            {
+              "period": "Evening",
+              "time": "7:00 PM",
+              "activity": "Welcome Dinner & Night Walk",
+              "description": "Indulge in a relaxing welcome dinner at a local bistro, sampling the first authentic regional flavors of Hyderabad.",
+              "location": "Hyderabad Central Hub",
+              "restaurant": {
+                "name": "Hyderabad Heritage Cafe",
+                "rating": "4.3",
+                "cost": "₹600"
+              },
+              "image": ""
+            },
+            {
+              "period": "Logistics Note",
+              "time": "Night",
+              "activity": "Local Transit Advice",
+              "description": "Ensure you hire a registered \"local cab\" for standard, hassle-free neighborhood transfers during your stay.",
+              "location": "Citywide",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "title": "Exploring Hyderabad Museum",
+          "hero_image": "",
+          "sections": [
+            {
+              "period": "Morning",
+              "time": "9:00 AM",
+              "activity": "Exploring Hyderabad Museum",
+              "description": "Set out early via \"local cab\" to visit the stunning, landmark monument \"Hyderabad Museum\". Capture beautiful panoramic shots.",
+              "location": "Hyderabad Museum",
+              "image": ""
+            },
+            {
+              "period": "Lunch",
+              "time": "1:00 PM",
+              "activity": "Regional Street Delicacy",
+              "description": "Savor local street foods and regional snacks, exploring the unique spices and textures of Hyderabad.",
+              "location": "Hyderabad Museum Market lanes",
+              "restaurant": {
+                "name": "Traditional Diner",
+                "rating": "4.4",
+                "cost": "₹500"
+              },
+              "food": [
+                {
+                  "name": "Signature local platter",
+                  "image": ""
+                }
+              ],
+              "image": ""
+            },
+            {
+              "period": "Afternoon",
+              "time": "3:00 PM",
+              "activity": "Discovering Hyderabad Palace",
+              "description": "Navigate to \"Hyderabad Palace\" and participate in \"Photography at major sights\". Take your time to walk around and discover local secrets.",
+              "location": "Hyderabad Palace",
+              "image": ""
+            },
+            {
+              "period": "Evening",
+              "time": "7:00 PM",
+              "activity": "Dinner at Local Street Stalls",
+              "description": "Dine at the highly celebrated local icon \"Local Street Stalls\", sampling their world-famous dish \"Signature local platter\". The ambiance is wonderful!",
+              "location": "Local Street Stalls",
+              "restaurant": {
+                "name": "Local Street Stalls",
+                "rating": "4.7",
+                "cost": "₹900"
+              },
+              "food": [
+                {
+                  "name": "Signature local platter",
+                  "image": ""
+                }
+              ],
+              "image": ""
+            },
+            {
+              "period": "Logistics Note",
+              "time": "Night",
+              "activity": "Sightseeing Tip",
+              "description": "Early mornings are the best time to visit \"Hyderabad Museum\" to beat the tourist rush and get clean, beautiful lighting for photos.",
+              "location": "Hyderabad Museum",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "title": "Exploring Old Town Hyderabad",
+          "hero_image": "",
+          "sections": [
+            {
+              "period": "Morning",
+              "time": "9:00 AM",
+              "activity": "Exploring Old Town Hyderabad",
+              "description": "Set out early via \"local cab\" to visit the stunning, landmark monument \"Old Town Hyderabad\". Capture beautiful panoramic shots.",
+              "location": "Old Town Hyderabad",
+              "image": ""
+            },
+            {
+              "period": "Lunch",
+              "time": "1:00 PM",
+              "activity": "Regional Street Delicacy",
+              "description": "Savor local street foods and regional snacks, exploring the unique spices and textures of Hyderabad.",
+              "location": "Old Town Hyderabad Market lanes",
+              "restaurant": {
+                "name": "Traditional Diner",
+                "rating": "4.4",
+                "cost": "₹500"
+              },
+              "food": [
+                {
+                  "name": "Signature local platter",
+                  "image": ""
+                }
+              ],
+              "image": ""
+            },
+            {
+              "period": "Afternoon",
+              "time": "3:00 PM",
+              "activity": "Discovering Historical Hyderabad Site",
+              "description": "Navigate to \"Historical Hyderabad Site\" and participate in \"Scenic walking tour in Hyderabad\". Take your time to walk around and discover local secrets.",
+              "location": "Historical Hyderabad Site",
+              "image": ""
+            },
+            {
+              "period": "Evening",
+              "time": "7:00 PM",
+              "activity": "Dinner at Local Street Stalls",
+              "description": "Dine at the highly celebrated local icon \"Local Street Stalls\", sampling their world-famous dish \"Signature local platter\". The ambiance is wonderful!",
+              "location": "Local Street Stalls",
+              "restaurant": {
+                "name": "Local Street Stalls",
+                "rating": "4.7",
+                "cost": "₹900"
+              },
+              "food": [
+                {
+                  "name": "Signature local platter",
+                  "image": ""
+                }
+              ],
+              "image": ""
+            },
+            {
+              "period": "Logistics Note",
+              "time": "Night",
+              "activity": "Sightseeing Tip",
+              "description": "Early mornings are the best time to visit \"Old Town Hyderabad\" to beat the tourist rush and get clean, beautiful lighting for photos.",
+              "location": "Old Town Hyderabad",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "title": "Exploring Hyderabad Park",
+          "hero_image": "",
+          "sections": [
+            {
+              "period": "Morning",
+              "time": "9:00 AM",
+              "activity": "Exploring Hyderabad Park",
+              "description": "Set out early via \"local cab\" to visit the stunning, landmark monument \"Hyderabad Park\". Capture beautiful panoramic shots.",
+              "location": "Hyderabad Park",
+              "image": ""
+            },
+            {
+              "period": "Lunch",
+              "time": "1:00 PM",
+              "activity": "Regional Street Delicacy",
+              "description": "Savor local street foods and regional snacks, exploring the unique spices and textures of Hyderabad.",
+              "location": "Hyderabad Park Market lanes",
+              "restaurant": {
+                "name": "Traditional Diner",
+                "rating": "4.4",
+                "cost": "₹500"
+              },
+              "food": [
+                {
+                  "name": "Signature local platter",
+                  "image": ""
+                }
+              ],
+              "image": ""
+            },
+            {
+              "period": "Afternoon",
+              "time": "3:00 PM",
+              "activity": "Discovering Scenic Lake Shore",
+              "description": "Navigate to \"Scenic Lake Shore\" and participate in \"Guided history walks\". Take your time to walk around and discover local secrets.",
+              "location": "Scenic Lake Shore",
+              "image": ""
+            },
+            {
+              "period": "Evening",
+              "time": "7:00 PM",
+              "activity": "Dinner at Local Street Stalls",
+              "description": "Dine at the highly celebrated local icon \"Local Street Stalls\", sampling their world-famous dish \"Signature local platter\". The ambiance is wonderful!",
+              "location": "Local Street Stalls",
+              "restaurant": {
+                "name": "Local Street Stalls",
+                "rating": "4.7",
+                "cost": "₹900"
+              },
+              "food": [
+                {
+                  "name": "Signature local platter",
+                  "image": ""
+                }
+              ],
+              "image": ""
+            },
+            {
+              "period": "Logistics Note",
+              "time": "Night",
+              "activity": "Sightseeing Tip",
+              "description": "Early mornings are the best time to visit \"Hyderabad Park\" to beat the tourist rush and get clean, beautiful lighting for photos.",
+              "location": "Hyderabad Park",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "title": "Exploring Art and Crafts Village",
+          "hero_image": "",
+          "sections": [
+            {
+              "period": "Morning",
+              "time": "9:00 AM",
+              "activity": "Exploring Art and Crafts Village",
+              "description": "Set out early via \"local cab\" to visit the stunning, landmark monument \"Art and Crafts Village\". Capture beautiful panoramic shots.",
+              "location": "Art and Crafts Village",
+              "image": ""
+            },
+            {
+              "period": "Lunch",
+              "time": "1:00 PM",
+              "activity": "Regional Street Delicacy",
+              "description": "Savor local street foods and regional snacks, exploring the unique spices and textures of Hyderabad.",
+              "location": "Art and Crafts Village Market lanes",
+              "restaurant": {
+                "name": "Traditional Diner",
+                "rating": "4.4",
+                "cost": "₹500"
+              },
+              "food": [
+                {
+                  "name": "Signature local platter",
+                  "image": ""
+                }
+              ],
+              "image": ""
+            },
+            {
+              "period": "Afternoon",
+              "time": "3:00 PM",
+              "activity": "Discovering Old Fort ruins",
+              "description": "Navigate to \"Old Fort ruins\" and participate in \"Trying traditional snacks\". Take your time to walk around and discover local secrets.",
+              "location": "Old Fort ruins",
+              "image": ""
+            },
+            {
+              "period": "Evening",
+              "time": "7:00 PM",
+              "activity": "Dinner at Local Street Stalls",
+              "description": "Dine at the highly celebrated local icon \"Local Street Stalls\", sampling their world-famous dish \"Signature local platter\". The ambiance is wonderful!",
+              "location": "Local Street Stalls",
+              "restaurant": {
+                "name": "Local Street Stalls",
+                "rating": "4.7",
+                "cost": "₹900"
+              },
+              "food": [
+                {
+                  "name": "Signature local platter",
+                  "image": ""
+                }
+              ],
+              "image": ""
+            },
+            {
+              "period": "Logistics Note",
+              "time": "Night",
+              "activity": "Sightseeing Tip",
+              "description": "Early mornings are the best time to visit \"Art and Crafts Village\" to beat the tourist rush and get clean, beautiful lighting for photos.",
+              "location": "Art and Crafts Village",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "title": "Farewell & Return Journey",
+          "hero_image": "",
+          "sections": [
+            {
+              "period": "Morning",
+              "time": "9:00 AM",
+              "activity": "Farewell Walk & Check-out",
+              "description": "Check out of your accommodation. Spend your final morning taking a quiet, scenic walk along the local riverbanks or central park.",
+              "location": "Hyderabad Riverside Park",
+              "image": ""
+            },
+            {
+              "period": "Lunch",
+              "time": "12:30 PM",
+              "activity": "Last Gourmet Meal",
+              "description": "Have a quick, delicious farewell lunch at a popular cafe near the departure terminal.",
+              "location": "Departure Terminal Cafe",
+              "restaurant": {
+                "name": "Farewell Cafe",
+                "rating": "4.2",
+                "cost": "₹400"
+              },
+              "image": ""
+            },
+            {
+              "period": "Afternoon",
+              "time": "3:00 PM",
+              "activity": "Return Transit Boarding",
+              "description": "Board your return \"Howrah Duronto\" (Train) for your comfortable journey back to Delhi.",
+              "location": "Hyderabad Station",
+              "transport": {
+                "type": "Train",
+                "name": "Howrah Duronto",
+                "price": "Included"
+              },
+              "image": ""
+            },
+            {
+              "period": "Evening",
+              "time": "7:00 PM",
+              "activity": "Safe Arrival Home",
+              "description": "Arrive safely back at your home destination, unpacking your beautiful souvenirs and reflecting on a memorable journey!",
+              "location": "Delhi Terminal",
+              "image": ""
+            }
+          ]
+        }
+      ],
+      "offlineFallback": true
+    },
+    "mlMetadata": {
+      "confidence": 76,
+      "matched_travelers": 5,
+      "transport_mode": "Flight",
+      "transport_name": "Express Service to Hyderabad",
+      "restaurant": "Local Street Stalls",
+      "best_dish": "Signature local platter",
+      "local_transport": "local cab",
+      "places_visited": [
+        "Hyderabad Museum",
+        "Hyderabad Palace",
+        "Old Town Hyderabad",
+        "Historical Hyderabad Site",
+        "Hyderabad Park"
+      ],
+      "activities": [
+        "Photography at major sights",
+        "Scenic walking tour in Hyderabad",
+        "Guided history walks",
+        "Trying traditional snacks",
+        "Souvenir market shopping"
+      ],
+      "message": "ML model successfully retrieved 5 nearest traveler profiles matching your travel profile."
+    },
+    "createdAt": "2026-05-26T07:04:47.327Z"
+  }
+]
